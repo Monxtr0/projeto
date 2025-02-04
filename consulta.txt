@@ -1,9 +1,0 @@
-CSS -> Folha de estilo em cascata
-COMO ESCREVER:
-SELETOR { Propriedade: Valor
-}
-
-
-
-CSS nao comeca nomes com números
-
